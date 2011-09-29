@@ -1,0 +1,5 @@
+[03-Nov-2010 17:59:50] PHP Fatal error:  Call to a member function getVar() on a non-object in /home/impressc/public_html/include/cp_header.php on line 27
+[03-Nov-2010 18:00:23] PHP Fatal error:  Call to a member function getVar() on a non-object in /home/impressc/public_html/include/cp_header.php on line 27
+[03-Nov-2010 18:11:01] PHP Fatal error:  Call to a member function getVar() on a non-object in /home/impressc/public_html/modules/tadgallery/admin/index.php on line 13
+[03-Nov-2010 18:11:52] PHP Fatal error:  Class 'PageBar' not found in /home/impressc/public_html/modules/tadgallery/admin/index.php on line 25
+[03-Nov-2010 18:34:40] PHP Fatal error:  Call to undefined function update_tad_gallery() in /home/impressc/public_html/modules/tadgallery/admin/index.php on line 131
